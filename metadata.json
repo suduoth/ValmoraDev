@@ -1,0 +1,6 @@
+{
+  "name": "Valmora Game Desk",
+  "description": "The step-by-step production roadmap, interactive system architect, and market-readiness desk for the Valmora game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
